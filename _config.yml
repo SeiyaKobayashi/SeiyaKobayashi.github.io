@@ -1,18 +1,19 @@
 title: Seiya Kobayashi
 author:
-  name: Seiya Kobayashi / 小林 聖弥
+  name: Seiya Kobayashi | 小林 聖弥
   email: eng@seiya.work
 description: >
   Seiya Kobayashi's personal website.
 remote_theme: jekyll/minima
 plugins:
   - jekyll-seo-tag
+  - jekyll-latex
 github: [metadata]
 header_pages:
   - about.md
-show_excerpts: true
+show_excerpts: false
 minima:
-  skin: auto
+  skin: classic
   date_format: "%Y-%m-%d"
   social_links:
    - { platform: telegram, user_url: "https://t.me/seiya_kobayashi" }

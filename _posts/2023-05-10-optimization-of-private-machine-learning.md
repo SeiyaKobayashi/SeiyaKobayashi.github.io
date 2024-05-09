@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Optimization of Private Machine Learning
-categories: ZKP
+title: "Optimization of Private Machine Learning"
 ---
 
 Please check out the link below👇🏻
