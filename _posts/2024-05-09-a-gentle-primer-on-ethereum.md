@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "世界一わかりやすいゼロ知識証明 Vol.1: A Gentle Primer on Ethereum"
+description: "ゼロ知識証明の前提知識としてのブロックチェーン、特にEthereumの技術的・経済的仕組みについて解説"
 ---
 
 *執筆に際して、フィードバックとレビューをしてくださった堤隆道さんに感謝します。*  
