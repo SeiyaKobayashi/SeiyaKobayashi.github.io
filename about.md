@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-> Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.<br>- Albert Einstein (1879 - 1955)
+> "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."
+<div style="text-align: right; font-style: italic;">Albert Einstein (1879 - 1955)</div>
 
 ## 👋🏼 About Myself
 
-I'm a **full-stack software engineer** based in Tokyo, Japan. For software development, I leverage any sort of tech stack to achieve what's supposed to be achieved, yet speaking of programming languages, **TypeScript**, **Python** and **Solidity** are my go-tos among all. I've also recently been passionate about research and development in the web3 domain. My latest interest lies at the intersection of **1) public blockchains, 2) applied cryptography and 3) artificial intelligence**. If anything, please reach out to me via [Email](mailto:eng@seiya.work), [Telegram](https://t.me/seiya_kobayashi) or [Facebook Messenger](https://www.facebook.com/seiya.kb).
-
----
-
-東京を拠点に**フルスタックのソフトウェアエンジニア**として活動しています。**米国ボストン大学（[Boston University](https://www.bu.edu/)）**を**コンピューターサイエンス専攻・哲学副専攻**で卒業。あらゆるソフトウェア開発の根底の目的はテックスタックに依らないため、使用する言語やツールは問いませんが、**TypeScript**・**Python**・**Solidity**が最もよく利用する言語になります。最近はWeb3領域でのR&Dや開発に力を入れており、特に**ブロックチェーン・応用暗号学・AI**を掛け合わせた領域に興味があります。お仕事のご依頼等は[Email](mailto:eng@seiya.work)、[Telegram](https://t.me/seiya_kobayashi)、または[Facebook Messenger](https://www.facebook.com/seiya.kb)までお願いします。
+I'm a **full-stack software engineer** based in Tokyo, Japan. After graduating from **Boston University** in 2020, I came back to Japan because of COVID-19, and I've been freelancing since then. My latest interest lies at the intersection of **blockchain** and **applied cryptography**, so my job is to envision our future in the context of decentralized internet, and turn such daydreams into reality through software engineering. When I find something interesting along the way, I often end up writing blog posts contextualizing those topics, either in English, Japanese, formal languages or math. Please feel free to reach out to me via [Email](mailto:eng@seiya.work), [Telegram](https://t.me/seiya_kobayashi) or [Facebook](https://www.facebook.com/seiya.kb).
